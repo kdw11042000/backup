@@ -1,9 +1,0 @@
-{
-	"name": "dfganga1",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "670dbb76-c6c3-4263-b485-7c7facb43239",
-		"tenantId": "904e9a61-6ae1-4978-87de-569b3878366c"
-	}
-}
